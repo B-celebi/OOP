@@ -1,5 +1,7 @@
 # University-Class-Diagram
+
 ---
+
 ## Turkish
 
 1. Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
@@ -8,7 +10,7 @@
 4. Her çalışan bir ofiste çalışır.
 
 Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
----
+
 ## English
 
 1. There are classrooms, work offices and departments belonging to the university.
