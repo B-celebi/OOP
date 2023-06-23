@@ -25,11 +25,11 @@ You are designing a system to track information about animals in a zoo.
    1. Equines (horses, zebras, donkeys, etc.),
    1. Felines (tigers, lions, etc.),
    1. Rodents (rats, beavers, etc.).
-   1. Most of the information stored about animals is the same for all groupings.(species name, weight, age, etc.)
+1. Most of the information stored about animals is the same for all groupings.(species name, weight, age, etc.)
 1. The system should also be able to get the dosage of specific drugs for each animal => getDosage ()
 1. The system should be able to calculate feeding times => getFeedSchedule ()
 1. The logic by which the system performs these functions will be different for each grouping. For example, the algorithm for feeding horses will be different for horses and different for tigers.
 
 Using the polymorphism model, design a class diagram to handle the situation described above.
 
-![Zoo-Diagram](../../../Zoo.png "Zoo-Class-Diagram")
+![Zoo-Diagram](Zoo.png "Zoo-Class-Diagram")
